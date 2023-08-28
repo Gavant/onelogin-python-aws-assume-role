@@ -1,5 +1,19 @@
 ####### requirements.txt #######
-boto3
-onelogin
-pyyaml
-lxml
+aenum==3.1.12
+boto3==1.26.158
+botocore==1.29.158
+certifi==2023.5.7
+charset-normalizer==3.1.0
+defusedxml==0.7.1
+idna==3.4
+jmespath==1.0.1
+lxml==4.9.2
+onelogin==2.0.4
+pydantic==1.10.9
+python-dateutil==2.8.2
+PyYAML==6.0
+requests==2.31.0
+s3transfer==0.6.1
+six==1.16.0
+typing_extensions==4.6.3
+urllib3==1.26.16

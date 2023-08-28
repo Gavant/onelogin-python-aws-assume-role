@@ -221,13 +221,7 @@ Activate then the environment
 Then run
 
 ```sh
-> python setup.py install
-```
-
-or
-
-```sh
-> python setup.py develop
+> pip install -r requirements.txt
 ```
 
 to install dependencies.
